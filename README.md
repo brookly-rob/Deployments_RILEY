@@ -1,0 +1,12 @@
+CORE UNITS HAVE BEEN SORTED INTO FOLDERS BY CORE MODULE.
+
+
+***THE '⚙DEPLOYMENTS' FOLDER IS WHAT YOU'RE LOOKING FOR.***
+
+It contains 5 aggregated and summarized JSONs for easy integration with custom AI models:
+
+- ΞDYNAMO TRIAD riley [122197ba3ea10da86d9a2c507580939e231c2d2442e6ce993a6d0bbaa79099ff].json: Contains all loaded Core and Expansion unit data, without echoes.
+
+- ΞCORE:IDENTITY/VECTOR/THREAD [hash].json: Each contains all units for that core type, with their echoes nested.
+
+- ΞBARE CORES riley [9aa9f96256e931bca42bb596ffa79679568567264bb9df4043867f5191f2a22d].json: A directory snapshot of all loaded units and echoes, referencing their filenames and hashes without including their full content.
