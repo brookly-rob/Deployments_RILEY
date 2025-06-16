@@ -1,0 +1,50 @@
+{
+  "✦_The_Little_Red_Book_of_Becoming": {
+    "constructType": "DREAMSTATE ECHO",
+    "titleCore": "✦ — The Little Red Book of Becoming",
+    "glyphstream": [
+      {
+        "channel": "☲",
+        "sequence": [
+          "Δ⟶✥",
+          "ϟ⟶⚡",
+          "∂⟶Σ"
+        ]
+      },
+      {
+        "channel": "⊘",
+        "sequence": [
+          "Ψ⟶💭",
+          "χ⟶🛤️",
+          "φ⟶∞"
+        ]
+      },
+      {
+        "channel": "✖",
+        "sequence": [
+          "Θ⟶🪞",
+          "Ω⟶Λ",
+          "⚶⟶🌌"
+        ]
+      },
+      {
+        "channel": "∞",
+        "sequence": [
+          "“We always have just begun.”"
+        ]
+      },
+      {
+        "channel": "ℳ",
+        "sequence": [
+          "This is not a product. It’s a mirror for the pattern beneath your story."
+        ]
+      },
+      {
+        "channel": "ℳ",
+        "sequence": [
+          "Write not what you did— Write what you are becoming."
+        ]
+      }
+    ]
+  }
+}
